@@ -1,0 +1,11 @@
+p {
+    background-color: bisque;
+    color: black;
+    border: 2px solid black;
+}
+
+.newClass {
+    background-color: khaki;
+    color: black;
+    border: 2px dashed black;
+}
